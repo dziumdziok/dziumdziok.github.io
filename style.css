@@ -31,3 +31,11 @@ body {
   text-align: center;
   font-size: 65%;
 }
+
+.text {
+  font-weight: normal;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 1.5;
+}
